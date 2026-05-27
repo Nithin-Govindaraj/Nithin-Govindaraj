@@ -33,7 +33,6 @@ Here are some of my favorite repositories:
 - Smart India Hackathon Hardware Edition(2025) — Finalist
 - VLSI RTL to GDS-II Flow Workshop — C2S Scheme
 - ASIC Design Flow (SCL-180nm) Workshop — C2S Scheme
-- Innov8e Hackathon 2026 — The NorthCap University (2nd place)
 -  Attended hackathons + Paper Presentation
 - JEE Mains 2023 qualifier
 
