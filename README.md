@@ -27,7 +27,7 @@ I'm an undergrad pursuing electronics and communication at SNS College of Techno
   <a href="https://en.wikipedia.org/wiki/Datasheet" target="_blank"><img src="https://img.shields.io/badge/Datasheets-304354?style=for-the-badge&logo=github&logoColor=black" alt="Datasheets"/>
   </a>
 </p>
-<br>
+
 
 <h2 style="margin-top: 0; padding-top: 0;">Projects</h2>
 
