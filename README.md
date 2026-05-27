@@ -24,10 +24,14 @@ I'm an undergrad pursuing electronics and communication at SNS College of Techno
   <a href="https://www.cadence.com" target="_blank"><img src="https://img.shields.io/badge/Cadence-304354?style=for-the-badge&logo=cadence&logoColor=black" alt="Cadence"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank"><img src="https://img.shields.io/badge/Verilog-304354?style=for-the-badge&logo=verilog&logoColor=black" alt="Verilog"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/Soldering" target="_blank"><img src="https://img.shields.io/badge/Soldering-304354?style=for-the-badge&logo=github&logoColor=black" alt="Soldering"/></a>&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Datasheet" target="_blank"><img src="https://img.shields.io/badge/Datasheets-304354?style=for-the-badge&logo=github&logoColor=black" alt="Datasheets"/></a>
-</p><h2 style="margin-top: 0; padding-top: 0;">Projects</h2>
-Here are some of my favorite repositories:
+  <a href="https://en.wikipedia.org/wiki/Datasheet" target="_blank"><img src="https://img.shields.io/badge/Datasheets-304354?style=for-the-badge&logo=github&logoColor=black" alt="Datasheets"/>
+  </a>
+</p>
+<br>
 
+<h2 style="margin-top: 0; padding-top: 0;">Projects</h2>
+
+Here are some of my favorite repositories:
 
 - **[PosturePro](https://github.com/Nithin-Govindaraj/Posture-Pro)**: 5th sem mini project, won 2nd place at Innova8e India Hackathon by The NorthCap University.
 
