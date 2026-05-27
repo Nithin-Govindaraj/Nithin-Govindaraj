@@ -7,8 +7,6 @@
 
 I'm an undergrad pursuing electronics and communication at SNS College of Technology, Tamil Nadu, India.
 
-- Making hardware do intelligent things
-
 🔭 I’m currently working on **VLSI domain**
 
 🌱 I’m currently interested in **anything electronics**
