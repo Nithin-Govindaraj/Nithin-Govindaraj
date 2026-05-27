@@ -28,6 +28,7 @@ I'm an undergrad pursuing electronics and communication at SNS College of Techno
 </p><h2 style="margin-top: 0; padding-top: 0;">Projects</h2>
 Here are some of my favorite repositories:
 
+
 - **[PosturePro](https://github.com/Nithin-Govindaraj/Posture-Pro)**: 5th sem mini project, won 2nd place at Innova8e India Hackathon by The NorthCap University.
 
 ## A few things i'm proud of:
